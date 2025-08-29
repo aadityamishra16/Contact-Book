@@ -5,7 +5,7 @@ It allows users to add, view, search, and delete contacts (name, phone, email).
 
 ---
 
-# 📌 Features
+## 📌 Features
 
 Add new contacts with name, phone, and email.  
 View all saved contacts.  
@@ -15,7 +15,7 @@ Beginner-friendly C code (uses arrays, strings, and loops).
 
 ---
 
-# ⚙️ How It Works
+## ⚙️ How It Works
 
 1. The program shows a menu with options (Add, View, Search, Delete, Exit).  
 2. You can add a new contact by entering name, phone number, and email.  
@@ -25,7 +25,7 @@ Beginner-friendly C code (uses arrays, strings, and loops).
 
 ---
 
-# 🚀 Example Run
+## 🚀 Example Run
 
 --- Contact Book ---  
 
