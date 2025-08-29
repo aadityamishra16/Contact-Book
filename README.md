@@ -1,17 +1,17 @@
 # 📒 Contact Book in C
 
-A simple command-line **Contact Book** program written in C.  
+A simple command-line Contact Book program written in C.  
 It allows users to add, view, search, and delete contacts (name, phone, email).  
 
 ---
 
 # 📌 Features
 
-- Add new contacts with name, phone, and email.  
-- View all saved contacts.  
-- Search a contact by name.  
-- Delete a contact by name.  
-- Beginner-friendly C code (uses arrays, strings, and loops).  
+Add new contacts with name, phone, and email.  
+View all saved contacts.  
+Search a contact by name.  
+Delete a contact by name.  
+Beginner-friendly C code (uses arrays, strings, and loops).  
 
 ---
 
@@ -64,7 +64,10 @@ Alice | 9876543210 | alice@example.com
 
 This project is designed to practice:  
 
-- Arrays of structures  
-- String handling (strcmp, strcpy)  
-- Menu-driven programs  
-- Basic operations like Create, Read, Update/Delete 
+Arrays of structures  
+String handling (strcmp, strcpy)  
+Menu-driven programs  
+Basic operations like Create, Read, Update/Delete
+
+## 👨‍💻 Contact  
+For more ideas and queries, you can connect with me on Linkedin - https://www.linkedin.com/in/aadityamishra16  
