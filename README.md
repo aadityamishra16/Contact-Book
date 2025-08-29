@@ -61,3 +61,10 @@ Enter your choice: 2
 --- Contact List ---  
 
 Alice | 9876543210 | alice@example.com  
+
+This project is designed to practice:  
+
+- Arrays of structures  
+- String handling (strcmp, strcpy)  
+- Menu-driven programs  
+- Basic operations like Create, Read, Update/Delete 
