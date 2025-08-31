@@ -62,6 +62,8 @@ Enter your choice: 2
 
 Alice | 9876543210 | alice@example.com  
 
+## ✍️ Logic
+
 This project is designed to practice:  
 
 Arrays of structures  
